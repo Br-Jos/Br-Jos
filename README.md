@@ -48,7 +48,7 @@
 
 | Tipo | Centro de Estudio / País | Especialidad | Fecha Desde / Hasta (Día/Mes/Año) | Total Horas |
 | :--- | :--- | :--- | :--- | :--- |
-| Curso | — | Ofimática (Excel intermedio, Word, PowerPoint) | — | — |
-| Curso | — | Adobe Photoshop | — | — |
-| Curso | — | Adobe Premiere | — | — |
-| Curso | — | Adobe Audition | — | — |
+| Curso | Instituto Crear | Ofimática (Excel intermedio, Word, PowerPoint) | — | — |
+| Curso | Instituto Crear | Adobe Photoshop | — | — |
+| Curso | Instituto Crear | Adobe Premiere | — | — |
+| Curso | Instituto Crear | Adobe Audition | — | — |
