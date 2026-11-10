@@ -5,15 +5,15 @@
 
 ## I. Datos Personales BRIETNY RAMOS TOLA
 
-* **Fecha de nacimiento:** 29 Diciembre 2003[cite: 1]
-* **Nacionalidad:** Peruano[cite: 1]
-* **DNI:** 73771686[cite: 1]
+* **Fecha de nacimiento:** 29 Diciembre 2003
+* **Nacionalidad:** Peruano
+* **DNI:** 73771686
 * **Dirección:** 
-* **Distrito:** Santa Lucía[cite: 1]
-* **Provincia:** Lampa[cite: 1]
-* **Departamento:** Puno[cite: 1]
-* **Correo Electrónico:** 
-* **Teléfono Móvil:** 932177177[cite: 1]
+* **Distrito:** Santa Lucía
+* **Provincia:** Lampa
+* **Departamento:** Puno
+* **Correo Electrónico:
+* **Teléfono Móvil:** 932177177
 
 ---
 
