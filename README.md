@@ -1,8 +1,9 @@
-# Brietny Ramos Tola
+#                     Hoja de Vida
+#                  Nombre y Apellidos
 
 ---
 
-## I. Datos Personales
+## I. Datos Personales BRIETNY RAMOS TOLA
 
 * **Fecha de nacimiento:** 29/12/2003[cite: 1]
 * **Nacionalidad:** Peruano[cite: 1]
