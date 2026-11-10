@@ -38,7 +38,7 @@
 
 | N° | Institución | Cargo | Descripción | Inicio | Término | Tiempo en el Cargo | Acreditación |
 | :---: | :--- | :--- | :--- | :---: | :---: | :---: | :--- |
-| 1 | INSTITUTO DE EDUCACION SUPERIOR TECNOLOGICO PUBLICO DE SANTA LUCIA[cite: 1] | PERSONAL DE APOYO TECNICO[cite: 1] | OFIMATICA[cite: 1] | 03/03/2025[cite: 1] | 31/12/2025[cite: 1] | 10 meses[cite: 1] | CONSTANCIA DE TRABAJO[cite: 1] |
+| 1 | INSTITUTO DE EDUCACION SUPERIOR TECNOLOGICO PUBLICO DE SANTA LUCIA | PERSONAL DE APOYO TECNICO | OFIMATICA | 03/03/2024 | 31/12/2026 | 10 meses | CONSTANCIA DE TRABAJO |
 
 ---
 
