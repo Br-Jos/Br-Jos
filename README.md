@@ -30,7 +30,7 @@
 
 | Grado Académico | Especialidad | Fecha Desde / Hasta (Mes/Año) | Centro de Estudio / País | Situación |
 | :--- | :--- | :--- | :--- | :--- |
-| Estudios Avanzados | A.P.S.T.I.<br>Computación Informática | 2024 / 2026[cite: 1] | I.E.S.T.P Santa Lucía[cite: 1] | —[cite: 1] |
+| Estudios Avanzados | A.P.S.T.I.<br>Computación Informática | 2024 / 2026 | I.E.S.T.P Santa Lucía | — |
 
 ---
 
