@@ -5,7 +5,7 @@
 
 ## I. Datos Personales BRIETNY RAMOS TOLA
 
-* **Fecha de nacimiento:** 29/12/2003[cite: 1]
+* **Fecha de nacimiento:** 29 Diciembre 2003[cite: 1]
 * **Nacionalidad:** Peruano[cite: 1]
 * **DNI:** 73771686[cite: 1]
 * **Dirección:** 
